@@ -1,0 +1,16 @@
+contextily==1.6.2
+fastapi==0.115.12
+geopandas==1.0.1
+geopy==2.4.1
+matplotlib==3.10.1
+nest_asyncio==1.6.0
+numpy==2.2.4
+pandas==2.2.3
+pydantic==2.11.3
+pykalman==0.10.1
+Requests==2.32.3
+scikit_learn==1.6.1
+scipy==1.15.2
+Shapely==2.1.0
+uvicorn==0.34.1
+jupyter
